@@ -1,2 +1,2 @@
 # Front end development
- HTML CSS
+ Mini Front end programs and projects
