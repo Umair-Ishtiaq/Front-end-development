@@ -1,2 +1,2 @@
 # Front end development
- Mini Front end programs and projects
+ Mini Front end projects
